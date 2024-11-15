@@ -1,0 +1,1 @@
+A simple project demonstrating a responsive webpage layout using HTML, CSS, and Bootstrap. Includes a header, navigation bar, main content sections, sidebar, and footer, with basic CSS transitions and responsive design.
